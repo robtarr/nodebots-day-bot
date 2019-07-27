@@ -10,6 +10,7 @@ To run, enter `node bot` into your command line terminal.
 * Weight limit of 750g
 
 ## Reference
+[PeeWee RunT Rover Instructions](https://www.youtube.com/watch?v=OjxLEaO_az0&feature=youtu.be)
 [Johnny Five](http://johnny-five.io/)
 [particle-io](https://www.npmjs.com/package/particle-io)
 [voodoospark](https://github.com/voodootikigod/voodoospark)
