@@ -1,0 +1,15 @@
+{
+  "name": "nodebots-day-bot",
+  "version": "1.0.0",
+  "description": "Sample robot code",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.2.0",
+    "particle-io": "^0.15.0"
+  }
+}
